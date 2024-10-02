@@ -14,12 +14,6 @@ parent:
   <a href="https://github.com/dapplink-labs/symbioticfi-subgraph/blob/main/LICENSE">
     <img alt="License: Apache-2.0" src="https://img.shields.io/github/license/dapplink-labs/symbioticfi-subgraph.svg" />
   </a>
-  <a href="https://pkg.go.dev/github.com/symbioticfi-subgraph/event-watcher">
-    <img alt="GoDoc" src="https://godoc.org/github.com/dapplink-labs/symbioticfi-subgraph?status.svg" />
-  </a>
-  <a href="https://goreportcard.com/report/github.com/dapplink-labs/symbioticfi-subgraph">
-    <img alt="Go report card" src="https://goreportcard.com/badge/github.com/dapplink-labs/symbioticfi-subgraph"/>
-  </a>
 </div>
 
 
