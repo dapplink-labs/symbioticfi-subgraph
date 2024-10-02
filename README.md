@@ -37,7 +37,15 @@ Symbioticfi Subgraph is a contract events indexer for symbioticfi contracts, inc
 For prerequisites and detailed build instructions please read the [Installation](https://github.com/dapplink-labs/symbioticfi-subgraph/) instructions. Once the dependencies are installed, run:
 
 ```bash
-make install
+npm install
+```
+or
+```
+pnpm install
+```
+or 
+```
+yarn install
 ```
 
 Or check out the latest [release](https://github.com/dapplink-labs/symbioticfi-subgraph).
